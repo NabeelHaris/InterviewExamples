@@ -10,8 +10,6 @@ public class FindLongestStringArray {
 
     Scanner input =new Scanner(System.in);
 
-
-
     public String findLongestStringInArray(){
         int n = strings.length;
         int k = 2;
@@ -25,7 +23,7 @@ public class FindLongestStringArray {
 
             for (int i = 0; i < strings.length; i++) {
                 if (strings[i].length() > maxLength) {
-//                    maxLength = strings[i].length();
+                    maxLength = strings[i].length();
                     longestString = strings[i];
                 }
 //                else if (strings[i] > anotherString){

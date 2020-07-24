@@ -8,12 +8,11 @@ public class Main {
 
         TripleTrouble tripleTrouble = new TripleTrouble();
         GetBonues getBonues = new GetBonues();
-        CountingPowerSets countingPowerSets = new CountingPowerSets();
+
         InvisibleCubes invisibleCubes = new InvisibleCubes();
         FunctionsOfIntegersOnCartesianPlane functionsOfIntegersOnCartesianPlane = new FunctionsOfIntegersOnCartesianPlane();
 
         IsNumberDivisibleByXAndY isNumberDivisibleByXAndY = new IsNumberDivisibleByXAndY();
-        CountTheMonkeys countTheMonkeys = new CountTheMonkeys();
         MultiplesOf3Or5 multiplesOf3Or5 = new MultiplesOf3Or5();
         SquareEveryDigit squareEveryDigit = new SquareEveryDigit();
         NumberOfTrailingZerosOfN numberOfTrailingZerosOfN = new NumberOfTrailingZerosOfN();
@@ -22,6 +21,7 @@ public class Main {
 
 //        System.out.println(getBonues.getBonus());
 
+//        CountingPowerSets countingPowerSets = new CountingPowerSets();
 //        System.out.println("The power set of this array is: " + countingPowerSets.countPowerSet());
 
 //        System.out.println(invisibleCubes.invisibleCubes());
@@ -30,11 +30,12 @@ public class Main {
 //        System.out.println(functionsOfIntegersOnCartesianPlane.sumMin(5));
 //        System.out.println(functionsOfIntegersOnCartesianPlane.sumSum(5));
 
-//        FindLongestStringArray findLongestStringArray = new FindLongestStringArray();
-//       System.out.println( findLongestStringArray.findLongestStringInArray());
+        FindLongestStringArray findLongestStringArray = new FindLongestStringArray();
+       System.out.println( findLongestStringArray.findLongestStringInArray());
 
 //        System.out.print(isNumberDivisibleByXAndY.returnTrueIfNumberIsDivisibleByXY());
 
+//        CountTheMonkeys countTheMonkeys = new CountTheMonkeys();
 //        System.out.print(countTheMonkeys.countMonkey());
 
 //        System.out.print(multiplesOf3Or5.returnMultipleOf3Or5());
@@ -59,9 +60,9 @@ public class Main {
 //        SumOFSeriesStartFormZero sumOFSeriesStartFormZero = new SumOFSeriesStartFormZero();
 //        System.out.println(sumOFSeriesStartFormZero.returnSumOfSeries());
 
-        ReversedSequence reversedSequence = new ReversedSequence();
-//        System.out.println(reversedSequence.returnReversedListOfNumber());
-        reversedSequence.returnReverseString();
+//        ReversedSequence reversedSequence = new ReversedSequence();
+////        System.out.println(reversedSequence.returnReversedListOfNumber());
+//        reversedSequence.returnReverseString();
 
 //        ArrayPlusArray arrayPlusArray = new ArrayPlusArray();
 ////        System.out.println(arrayPlusArray.returnArrayPlusArray());
@@ -73,9 +74,8 @@ public class Main {
 
 
 //        CheckAdditionOfNumberInArray checkAdditionOfNumberInArray = new CheckAdditionOfNumberInArray();
-//        System.out.println(checkAdditionOfNumberInArray.returnAdditionOfNumber());
 //        System.out.println(checkAdditionOfNumberInArray.checkSumOfNumberInArray());
-//        checkAdditionOfNumberInArray.checkSumOfNumberInArray();
+
 
 //        SquareSumOfEachNumber squareSumOfEachNumber = new SquareSumOfEachNumber();
 //        System.out.println(squareSumOfEachNumber.returnSquareOfEachNumber());
@@ -87,9 +87,9 @@ public class Main {
 //      System.out.println(  humanReadableDurationFormat.returnHumanReadForm());
 
 
-//        CountAlphabat countAlphabat = new CountAlphabat();
-////        System.out.println(countAlphabat.returnNumberOfAlphabet());
-//        countAlphabat.returnNumberOfAlphaWithDifferentWay();\
+//        CountAlphabet countAlphabet = new CountAlphabet();
+////        System.out.println("Alphabet in this String is: " + countAlphabet.returnNumberOfAlphabet());
+//        countAlphabet.returnTheNumberOfLetterSpaceDigitsAnOtherInString();
 
 //        RemoveDuplicateWords removeDuplicateWords = new RemoveDuplicateWords();
 //       System.out.println( removeDuplicateWords.removeDuplicateWordFromString());
@@ -100,9 +100,9 @@ public class Main {
 //        ConvertNumberToReversedArray convertNumberToReversedArray = new ConvertNumberToReversedArray();
 //        System.out.println(convertNumberToReversedArray.returnReversedArray());
 
-//        AscendingAndDescendingOrder assendingOrder = new AscendingAndDescendingOrder();
-//         assendingOrder.returnArrayIntoAscendingOrder();
-//         assendingOrder.returnDescendingOrder();
+//        AscendingAndDescendingOrder checkOrder = new AscendingAndDescendingOrder();
+////        checkOrder .returnArrayIntoAscendingOrder();
+//        checkOrder.returnDescendingOrder();
 
 //        FindTheFirstNonConsecutiveNumber findTheFirstNonConsecutiveNumber =new FindTheFirstNonConsecutiveNumber();
 //        findTheFirstNonConsecutiveNumber.returnNonConsecutiveNumber();
@@ -113,7 +113,7 @@ public class Main {
 
 //        CheckPivotElementInArray checkPivotElementInArray = new CheckPivotElementInArray();
 //        System.out.println(checkPivotElementInArray.returnPivotElementInArray());
-
+//        System.out.print(checkPivotElementInArray.returnPivotValue());
 
 
     }

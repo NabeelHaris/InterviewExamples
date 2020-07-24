@@ -13,7 +13,6 @@ public class ReversedSequence {
 
 
     public String returnReversedListOfNumber(){
-
         int number;
 
         System.out.print("Enter Number for Reverse: ");
@@ -25,14 +24,12 @@ public class ReversedSequence {
             result += i;
         }
 
-
         return result;
     }
 
     public void returnReverseString(){
 
         String value = "Nabeel";
-
         char[] check = value.toCharArray();
 
         System.out.println("Original value is: " + value);

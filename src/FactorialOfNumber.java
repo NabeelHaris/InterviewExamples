@@ -15,7 +15,7 @@ public class FactorialOfNumber {
         number = input.nextInt();
 
         for (int i = 1; i<=number; i++){
-           fact = fact * i;
+           fact *=i;
         }
         return fact;
     }

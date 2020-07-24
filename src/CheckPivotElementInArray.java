@@ -5,10 +5,11 @@ public class CheckPivotElementInArray {
 
     private Scanner input = new Scanner(System.in);
 
+    int[] array = new int[5];
 
     public int returnPivotElementInArray(){
 
-        int[] array = new int[6];
+
         int pivot = 0;
         int left =0;
         int right =0;
@@ -33,6 +34,16 @@ public class CheckPivotElementInArray {
         }
 
         return pivot;
+    }
+
+    public int returnPivotValue(){
+        int sum = 0, leftsum = 0;
+        for (int x: array) sum += x;
+        for (int i = 0; i < array.length; ++i) {
+            if (leftsum == sum - leftsum - array[i]) return i;
+            leftsum += array[i];
+        }
+        return -1;
     }
 
 }

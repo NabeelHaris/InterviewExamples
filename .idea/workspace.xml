@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1ca7062-4f42-4be5-be89-61ff127f971f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindMissingElementInArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Triple Trouble/CheckAdditionOfNumberInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Triple Trouble/CheckAdditionOfNumberInArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Triple Trouble/CheckPivotElementInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Triple Trouble/CheckPivotElementInArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Triple Trouble/CountAlphabat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Triple Trouble/EvenOrOdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Triple Trouble/EvenOrOdd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Triple Trouble/FindLongestStringArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Triple Trouble/FindLongestStringArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Triple Trouble/META-INF/Triple Trouble.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Triple Trouble/META-INF/Triple Trouble.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Triple Trouble/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Triple Trouble/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Triple Trouble/ReversedSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Triple Trouble/ReversedSequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CheckAdditionOfNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CheckAdditionOfNumberInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CheckPivotElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CheckPivotElementInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CountAlphabat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CountAlphabet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EvenOrOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EvenOrOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FactorialOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FactorialOfNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FindLongestStringArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindLongestStringArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReversedSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReversedSequence.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +99,8 @@
       <workItem from="1595520352939" duration="1116000" />
       <workItem from="1595549915205" duration="1765000" />
       <workItem from="1595551723173" duration="1780000" />
-      <workItem from="1595553573013" duration="235000" />
+      <workItem from="1595553573013" duration="993000" />
+      <workItem from="1596701663243" duration="1775000" />
     </task>
     <servers />
   </component>
@@ -142,16 +128,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FindLongestStringArray.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

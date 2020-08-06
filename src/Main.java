@@ -30,8 +30,8 @@ public class Main {
 //        System.out.println(functionsOfIntegersOnCartesianPlane.sumMin(5));
 //        System.out.println(functionsOfIntegersOnCartesianPlane.sumSum(5));
 
-        FindLongestStringArray findLongestStringArray = new FindLongestStringArray();
-       System.out.println( findLongestStringArray.findLongestStringInArray());
+//        FindLongestStringArray findLongestStringArray = new FindLongestStringArray();
+//       System.out.println( findLongestStringArray.findLongestStringInArray());
 
 //        System.out.print(isNumberDivisibleByXAndY.returnTrueIfNumberIsDivisibleByXY());
 
@@ -115,6 +115,8 @@ public class Main {
 //        System.out.println(checkPivotElementInArray.returnPivotElementInArray());
 //        System.out.print(checkPivotElementInArray.returnPivotValue());
 
+        FindMissingElementInArray findMissingElementInArray = new FindMissingElementInArray();
+       System.out.print("This is missing: " + findMissingElementInArray.returnMissingElementFromArray());
 
     }
 }

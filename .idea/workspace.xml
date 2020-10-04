@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1ca7062-4f42-4be5-be89-61ff127f971f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FindMissingElementInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountOfLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenerateRendomNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -101,6 +102,12 @@
       <workItem from="1595551723173" duration="1780000" />
       <workItem from="1595553573013" duration="993000" />
       <workItem from="1596701663243" duration="1775000" />
+      <workItem from="1596703488597" duration="343000" />
+      <workItem from="1597127314563" duration="56000" />
+      <workItem from="1597344403685" duration="404000" />
+      <workItem from="1597419970564" duration="362000" />
+      <workItem from="1600712682278" duration="54000" />
+      <workItem from="1601834318385" duration="509000" />
     </task>
     <servers />
   </component>

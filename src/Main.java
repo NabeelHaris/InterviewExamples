@@ -6,16 +6,16 @@ public class Main {
 
 //        Scanner input =new Scanner(System.in);
 
-        TripleTrouble tripleTrouble = new TripleTrouble();
-        GetBonues getBonues = new GetBonues();
+//        TripleTrouble tripleTrouble = new TripleTrouble();
+//        GetBonues getBonues = new GetBonues();
+//
+//        InvisibleCubes invisibleCubes = new InvisibleCubes();
+//        FunctionsOfIntegersOnCartesianPlane functionsOfIntegersOnCartesianPlane = new FunctionsOfIntegersOnCartesianPlane();
 
-        InvisibleCubes invisibleCubes = new InvisibleCubes();
-        FunctionsOfIntegersOnCartesianPlane functionsOfIntegersOnCartesianPlane = new FunctionsOfIntegersOnCartesianPlane();
-
-        IsNumberDivisibleByXAndY isNumberDivisibleByXAndY = new IsNumberDivisibleByXAndY();
-        MultiplesOf3Or5 multiplesOf3Or5 = new MultiplesOf3Or5();
-        SquareEveryDigit squareEveryDigit = new SquareEveryDigit();
-        NumberOfTrailingZerosOfN numberOfTrailingZerosOfN = new NumberOfTrailingZerosOfN();
+//        IsNumberDivisibleByXAndY isNumberDivisibleByXAndY = new IsNumberDivisibleByXAndY();
+//        MultiplesOf3Or5 multiplesOf3Or5 = new MultiplesOf3Or5();
+//        SquareEveryDigit squareEveryDigit = new SquareEveryDigit();
+//        NumberOfTrailingZerosOfN numberOfTrailingZerosOfN = new NumberOfTrailingZerosOfN();
 
 //       System.out.println(tripleTrouble.tripleTrouble());
 
@@ -115,8 +115,11 @@ public class Main {
 //        System.out.println(checkPivotElementInArray.returnPivotElementInArray());
 //        System.out.print(checkPivotElementInArray.returnPivotValue());
 
-        FindMissingElementInArray findMissingElementInArray = new FindMissingElementInArray();
-       System.out.print("This is missing: " + findMissingElementInArray.returnMissingElementFromArray());
+//        FindMissingElementInArray findMissingElementInArray = new FindMissingElementInArray();
+//       System.out.print("This is missing: " + findMissingElementInArray.returnMissingElementFromArray());
+
+        GenerateRendomNumber generateRendomNumber = new GenerateRendomNumber();
+        generateRendomNumber.generatePhoneNumber();
 
     }
 }
